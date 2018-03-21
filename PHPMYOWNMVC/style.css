@@ -1,0 +1,209 @@
+body {margin:0; padding:0; font:400 12px/1.24 'NeoSansPro', 'Calibri', Arial, Helvetica, sans-serif; color:#fff; background:#aab4ac url(images/bg.jpg) no-repeat center 0 fixed;
+    -moz-background-size:cover; -webkit-background-size:cover; background-size:cover;
+}
+
+a img {border:0;}
+
+.top-block{
+	height: 45px;
+	background-color: rgb(19,19,19);
+}
+.navb
+{
+	  padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+ }
+ .navb li
+ {
+ 	margin-top:16px;
+ 	display: inline-block;
+  font-size: 17px;
+  padding: 1px;
+  text-transform: uppercase;
+ }
+
+ .navb li a
+ {
+ 	text-decoration: none;
+ 	color:#818181;
+ }
+
+.navb li::after
+ {
+ 	color:#818181;
+ 	content:' | ';
+ }
+
+ .navb li a:hover
+ {
+ 	color:white;
+ }
+
+ .header
+ {
+ 	height: 160px;
+ 	background-color: rgb(59,59,59);
+ }
+
+.logo
+{
+	padding-top:30px;
+	padding-left: 20px;
+	height: 56px;
+	font-size: 36pt;
+	color:white;
+	font-style: italic;
+}
+
+.logo .abb
+{
+	color:#999999;
+	font-size: 16pt;
+	padding-bottom: 30px;
+	font-style: normal;
+		
+}
+
+ .banner
+ {
+ 	width: 468px;
+ 	height: 60px;
+ 	margin-top:50px;
+ 	margin-left: 30px;
+	background-color: #102343;
+ }
+
+.banner p
+ {
+color:white;
+font-size: 20px;
+text-align: center;
+padding-top: 15px;
+ }
+
+ footer
+ {
+ 	height: 30px;
+ 	background-color: #131313;
+ 	color:white;
+ 	padding-left: 30px;
+ 	padding-top: 5px;
+ }
+ .content
+ {
+ 	background-color: #282828;
+ }
+
+  .content p {
+  	color:white;
+  	display: inline;
+  }
+
+ section
+ {
+ 	margin:10px;
+ 	height: 200px;
+ 	border:3px solid white;
+ 	
+  }
+
+.tajtl
+{
+ 	height: 35px;
+ 	font-weight: bold;
+ 	border-bottom: 2px solid gray;
+ 	background-color: #282828;
+ 	overflow: hidden;
+ 	padding-left: 10px;
+ }
+
+
+
+ .aTitle
+ {
+  font-size: 17pt;
+ }
+
+ .aAbr
+ {
+ 	font-size: 12pt;
+ }
+
+ .kantent
+ {
+ 	height: 140px;
+ 	background-color: #d3d3d3;
+ }
+
+.aDate
+{
+font-size:11pt;
+}
+
+.aDivImg
+{
+	padding-left: 0;
+	padding-right: 10px;
+	float:left;
+}
+
+.aInfo p
+{
+overflow: hidden;
+font-size:18px;
+color:black;
+}
+
+.aImg {
+    float: left;
+    width: 150px;
+		height: 138px;
+}
+.aImg img {
+    display: block;
+}
+
+.aType
+{
+	max-width: 60px;
+	max-height: 60px;
+	float:right;
+	background-color: #282828;
+	font-size:30px;
+	text-align: center;
+}
+ .futer
+ {
+ 	height: 20px;
+ 	font-size:15px; 
+ }
+
+ .futer a
+ {
+ color:white;
+ text-decoration: none;
+ }
+
+ .futer a:hover
+ {
+ color:gray;
+ text-decoration: none;
+ }
+
+ .img
+ {
+ 	margin:0 auto;
+ }
+
+.header
+{
+height: 200px;
+width: 300px;
+background-color: black;	
+}
+ .logo
+ {
+ 	width: 200px;
+ 	height: 100px;
+  }

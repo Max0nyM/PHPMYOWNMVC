@@ -1,0 +1,100 @@
+body {margin:0; padding:0; font:400 12px/1.24 'NeoSansPro', 'Calibri', Arial, Helvetica, sans-serif; color:#fff; background:#5d5d5d no-repeat center 0 fixed;
+    -moz-background-size:cover; -webkit-background-size:cover; background-size:cover;
+}
+
+body,html,.main-display-area,.col-md-7 {
+   height:100%;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Bellefair|Bitter|Cabin|Hind|Josefin+Sans|Khula|Muli|Nunito|Poppins|Zilla+Slab');
+
+a img {border:0;}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container
+{
+	width:500px;
+	position:absolute;
+	left:50%;
+	top:50%;
+	margin:-200px 0 0 -250px;
+}
+
+.img
+{
+padding-left: 80px;	
+}
+
+.loginBox
+{
+width: 400px;
+height: 300px;
+background-image: url(../images/loginBoxBg.png);
+margin: auto;
+}
+
+p
+{
+	font-family: 'Hind', serif;
+	font-weight: bold;
+	font-size: 16px;
+	text-align: center;
+	padding-top:70px;
+}
+
+input
+{
+border-radius: 10px;
+display: block;
+height: 45px;
+margin-left: auto;
+margin-right: auto;
+pading-top: 10px;
+padding-left: 10px;
+margin-bottom: 5px;
+color:black;
+font-size: 16px;
+font-family: 'Poppins', serif;
+font-style: normal;
+}
+
+input:last-child
+{
+margin-top: 0;
+}
+
+.buttona
+{
+position: absolute;
+margin-top:5px;
+left: 40%;
+right: 25%;
+font-size: 16px;
+font-family: 'Bitter', serif;
+}
+
+
+a
+{
+color:white;
+font-size: 16px;
+font-family: 'Bitter', serif;
+font-weight: bold;
+}
+
+
+a:hover
+{
+text-decoration: none;
+color:white;
+}
+
+.form-group
+{
+	width: 80%;
+	margin-top:300px;
+}

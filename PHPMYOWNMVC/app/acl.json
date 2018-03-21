@@ -1,0 +1,21 @@
+{
+"Guest" : {
+    "denied" : {},
+    "Home" : ["*"],
+    "Register" : ["login","register"],
+    "Restricted" : ["*"],
+	"Redirect" : ["*"]
+},
+
+"LoggedIn" : {
+"denied" : {
+    "Register" : ["login","register"]
+},
+"Register" :["logout"],
+"Tools" : ["*"] ,
+"Api" : ["*"],
+"Redirect" : ["*"]
+}
+
+
+}
